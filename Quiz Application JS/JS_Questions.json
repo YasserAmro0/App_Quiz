@@ -1,0 +1,50 @@
+[
+    {
+        "title":"Which of the following function of Boolean object returns the primitive value of the Boolean object?",
+        "answer_1":"toSource()",
+        "answer_2":"valueOf()",
+        "answer_3":"toString()",
+        "answer_4":" None of the above.",
+        "right_answer":"valueOf()"
+    },
+    {
+        "title":"Which of the following is not javascript data types?",
+        "answer_1":"Null type",
+        "answer_2":"Undefined type",
+        "answer_3":"Number type",
+        "answer_4":"All of the mentioned",
+        "right_answer":"All of the mentioned"
+    },
+    {
+        "title":" Which of the following scoping type does JavaScript use?",
+        "answer_1":"Sequential",
+        "answer_2":"Segmental",
+        "answer_3":"Lexical",
+        "answer_4":"Literal",
+        "right_answer":"Lexical"
+    },
+    {
+        "title":"Which of the following is not a framework?",
+        "answer_1":"JavaScript .NET",
+        "answer_2":"JavaScript",
+        "answer_3":"jQuery",
+        "answer_4":"Cocoa JS",
+        "right_answer":"JavaScript"
+    },
+    {
+        "title":"Which of the following is the property that is triggered in response to JS errors?",
+        "answer_1":"onclick",
+        "answer_2":"onerror",
+        "answer_3":"onmessage",
+        "answer_4":"onexception",
+        "right_answer":"onerror"
+    },
+    {
+        "title":" Which built-in method returns the characters in a string beginning at the specified location?",
+        "answer_1":"substr()",
+        "answer_2":"getSubstring()",
+        "answer_3":"slice()",
+        "answer_4":"None of the above.",
+        "right_answer":"substr()"
+    }
+]

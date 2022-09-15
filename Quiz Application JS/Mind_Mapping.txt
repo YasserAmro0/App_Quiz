@@ -1,0 +1,22 @@
+01 - Creat JSON Object For Qustions
+02 - Starting Creating HTML Markup + Styling
+03 - Add Dummy Data
+04 - Create The Styling
+05 - Fetch Number Of Questions From JSON Object
+06 - Show Questins Count + Questions Category
+07 - Show The Number Of Bulets Depend On Qustions Count
+08 - Set The Number For The True And false Answers
+09 - Creat Countdown Timer
+10 - Fetch The Qustions From The JSON
+11 - Show First Questions
+12 - Check Answers and Hide Questins then Show Next One
+13 - iF the time End , Mark Austions As Wron And Show Next Qustions
+14 - Add Class On Bulets After Answers the Qustions
+15 - If Qustions Finished Show THe Result
+
+
+
+Ideas
+-Many Json Objects And Languguge
+-And Many Questions And Choose Only 10 Randomly
+- Randomize Answers

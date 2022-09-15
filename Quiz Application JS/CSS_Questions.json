@@ -1,0 +1,58 @@
+[
+    {
+        "title":"How can we change the background color of an element",
+        "answer_1":"background-color",
+        "answer_2":"color",
+        "answer_3":"Both A and B",
+        "answer_4":" None of the above",
+        "right_answer":"background-color"
+    },
+    {
+        "title":"How can we change the text color of an element?",
+        "answer_1":"background-color",
+        "answer_2":"color",
+        "answer_3":"Both A and B",
+        "answer_4":" None of the above",
+        "right_answer":"color"
+    },
+    {
+        "title":" What type of CSS is generally recommended for designing large web pages?",
+        "answer_1":"inline",
+        "answer_2":"internal",
+        "answer_3":"External",
+        "answer_4":"None OF the above",
+        "right_answer":"External"
+    },
+    {
+        "title":"Which HTML tag is used to declare internal CSS?",
+        "answer_1":"<style>",
+        "answer_2":"<link>",
+        "answer_3":"<script>",
+        "answer_4":"None of above",
+        "right_answer":"<style>"
+    },
+    {
+        "title":"How can we select an element with a specific ID in CSS?",
+        "answer_1":"#",
+        "answer_2":".",
+        "answer_3":"^",
+        "answer_4":"None of above",
+        "right_answer":"#"
+    },
+    {
+        "title":"We can make rounded borders around elements using which CSS element?",
+        "answer_1":"border-collapse",
+        "answer_2":"border-round",
+        "answer_3":"border-radius",
+        "answer_4":"None of above",
+        "right_answer":"border-radius"
+    },
+    {
+        "title":" How can we write comments in CSS?",
+        "answer_1":" \\* *\\",
+        "answer_2":"\\",
+        "answer_3":"#",
+        "answer_4":"All of The above",
+        "right_answer":"\\* *\\"
+    }
+]
